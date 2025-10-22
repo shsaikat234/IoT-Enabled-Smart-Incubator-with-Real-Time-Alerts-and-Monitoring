@@ -29,7 +29,6 @@ Maintaining a stable environment inside incubators is crucial in medical and res
 - [Results & Performance](#results--performance)
 - [Limitations & Future Work](#limitations--future-work)
 - [Acknowledgments](#acknowledgments)
-- [References](#references)
 - [Contact](#contact)
 
 ---
