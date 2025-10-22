@@ -94,7 +94,3 @@ This document lists the recommended components, optional upgrades, tools, and sa
 This component list is provided under the same terms as the project (MIT License unless otherwise noted). Modify quantities and parts according to your design, safety requirements, and local availability.
 
 ---
-
-If you want, I can:
-- generate a CSV or spreadsheet of this BOM, or  
-- create a formatted `COMPONENTS.md` file and save it to the project folder for download.
